@@ -1,0 +1,10 @@
+C:\Users\csstr\source\repos\Text editor\Text editor\bin\Debug\Text editor.exe.config
+C:\Users\csstr\source\repos\Text editor\Text editor\bin\Debug\Text editor.exe
+C:\Users\csstr\source\repos\Text editor\Text editor\bin\Debug\Text editor.pdb
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text editor.csproj.AssemblyReference.cache
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text editor.csproj.GenerateResource.cache
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text editor.csproj.CoreCompileInputs.cache
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text editor.exe
+C:\Users\csstr\source\repos\Text editor\Text editor\obj\Debug\Text editor.pdb
